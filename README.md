@@ -1,6 +1,6 @@
 ### Hi there, I'm Vincent 👋
 
-[![](https://github-readme-stats.vercel.app/api?username=ZeQuyk&show_icons=true&hide_title=true&theme=tokyonight)](https://github.com/ZeQuyk)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZeQuyk&theme=black-ice)](https://git.io/streak-stats)
 <!--
 **ZeQuyk/ZeQuyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
