@@ -1,6 +1,10 @@
 ### Hi there, I'm Vincent 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZeQuyk&theme=black-ice)](https://git.io/streak-stats)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,cs,dotnet,mongo,mysql,redis,visualstudio,vscode,azure" />
+</a>
 <!--
 **ZeQuyk/ZeQuyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
